@@ -1,2 +1,2 @@
 # MyTest
-It contains projects related to learnings
+This project contains code related to learnings
